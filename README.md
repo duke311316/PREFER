@@ -69,4 +69,4 @@ Acknowledgements
 
 This project could not have been made possible if not for Bryce Turney's mentorship and the assistance of ChatGPT for troubleshooting and refining the machine learning models, particularly in areas such as code optimization and implementation of advanced neural network architectures.
 
-Feel free to modify this template according to your project's specifics and any additional sections you might want to include, such as 'Installation', 'Contributing', or 'License'.
+
