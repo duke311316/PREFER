@@ -1,7 +1,9 @@
 # PREFER
 
 Flood Prediction Using Machine Learning
+
 by: Dale Duclion
+
 Mentors: Bryce Turney, Dr. Tzeng Nianfeng, Dr. Paul Darby, Dr. Li Chen 
 
 Overview
