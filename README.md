@@ -2,7 +2,7 @@
 
 Flood Prediction Using Machine Learning
 by: Dale Duclion
-Mentors: Bryce Turnkey, Dr. Tzeng Nianfeng, Dr. Paul Darby, Dr. Li Chen 
+Mentors: Bryce Turney, Dr. Tzeng Nianfeng, Dr. Paul Darby, Dr. Li Chen 
 
 Overview
 
@@ -65,6 +65,6 @@ Run the run.ipynb notebook to execute the data processing, model training, and e
 
 Acknowledgements
 
-This project could not have been made possible if not for Bryce Turnkey's mentorship and the assistance of ChatGPT for troubleshooting and refining the machine learning models, particularly in areas such as code optimization and implementation of advanced neural network architectures.
+This project could not have been made possible if not for Bryce Turney's mentorship and the assistance of ChatGPT for troubleshooting and refining the machine learning models, particularly in areas such as code optimization and implementation of advanced neural network architectures.
 
 Feel free to modify this template according to your project's specifics and any additional sections you might want to include, such as 'Installation', 'Contributing', or 'License'.
