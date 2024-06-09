@@ -4,10 +4,10 @@ Flood Prediction Using Machine Learning
 
 by: Dale Duclion
 
-Mentors: Bryce Turney, Dr. Tzeng Nianfeng, Dr. Paul Darby, Dr. Li Chen 
+Mentors: Bryce Turney,
 
 Overview
-
+The data processing was successful though the use of the data was not.
 This project focuses on predicting water levels using machine learning techniques. The primary goal is to develop models that can accurately forecast future water levels based on historical data. The research journey encompasses transitioning from linear autoregressive models to more sophisticated deep learning approaches, such as LSTM (Long Short-Term Memory) networks, with the inclusion of an attention mechanism for improved accuracy.
 
 Datasets
